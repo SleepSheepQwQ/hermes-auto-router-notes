@@ -1,0 +1,13 @@
+node_modules
+ci-artifact
+kiomet-browser
+lobehub-renderer
+openwebui
+*.log
+*.pid
+*.txt
+*.tmp
+*.yml
+**/.hermes
+.env
+
