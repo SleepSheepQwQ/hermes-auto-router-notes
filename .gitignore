@@ -11,3 +11,4 @@ openwebui
 **/.hermes
 .env
 
+cloudbase-proxy.js.bak
